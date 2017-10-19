@@ -1,0 +1,18 @@
+PODS:
+  - AnimatedCollectionViewLayout (0.3.0)
+  - Fusuma (1.2.0)
+  - Sharaku (1.0.2)
+
+DEPENDENCIES:
+  - AnimatedCollectionViewLayout
+  - Fusuma
+  - Sharaku
+
+SPEC CHECKSUMS:
+  AnimatedCollectionViewLayout: 504b992a4258eb39d2dd2b2b48e84b4b95860fd7
+  Fusuma: e8158ad6650507455c9898c22bc01583fbc86d8e
+  Sharaku: c18de569fc99f6e936f46ca812b571826cc658a7
+
+PODFILE CHECKSUM: 461c8be6b79cac23a002f10bcd24b9e0dedd6204
+
+COCOAPODS: 1.3.1
