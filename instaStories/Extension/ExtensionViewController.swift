@@ -81,6 +81,10 @@ extension ViewController:  UIImagePickerControllerDelegate ,UINavigationControll
 
 //Mark: Extension Fusuma Delegate (ViewController).
 extension ViewController:FusumaDelegate{
+    func fusumaMultipleImageSelected(_ images: [UIImage], source: FusumaMode) {
+        <#code#>
+    }
+    
     func fusumaImageSelected(_ image: UIImage, source: FusumaMode) {
         storyImagesArray.append(image)
     }
